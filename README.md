@@ -2,7 +2,7 @@
 En este documento se va a mostrar visualmente el prototipo de la interfaz de datos del ciudadano en la aplicación móvil GVASalut. Además, se va a describir como se ha desarrollado, y con qué criterios respecto a 3 apartados: diseño, estructura y funcionalidades técnicas.
 
 ## MUESTRA VISUAL
-<img src="Capturas/Screenshot_2019-04-25-14-51-33-877_com.jaumemiralles.gvasalut_datospersonales3.png" width="360" border="1">&emsp;&emsp;<img src="Capturas/Screenshot_2019-04-24-13-49-11-527_com.jaumemiralles.gvasalut_datospersonales3.png" width="360" border="5">
+<kbd><img src="Capturas/Screenshot_2019-04-25-14-51-33-877_com.jaumemiralles.gvasalut_datospersonales3.png" width="360"></kbd>&emsp;&emsp;<kbd><img src="Capturas/Screenshot_2019-04-24-13-49-11-527_com.jaumemiralles.gvasalut_datospersonales3.png" width="360"></kbd>
 
 ## DISEÑO
 Se ha optado por un diseño simple, elegante y claro a la vista, facilitando así al ciudadano dónde puede ver cada dato de manera efectiva. Para ello se ha aplicado la usabilidad de colores, dando importancia en este caso a la cohesión entre el blanco, negro y rojo caramelo. A su vez, se ha apostado por la integración de un icono para identificar a cada sección, aumentando así considerablemente la claridad visual y dando un toque moderno a la interfaz.
@@ -18,6 +18,7 @@ Uno de los elementos más importantes sobre las aplicaciones móviles es la simp
 En este caso, vemos que las secciones ya mencionadas se pueden seleccionar tanto tocando desde las propias pestañas estáticas, pero a su vez deslizando con el dedo en el contenido de la pantalla para lograr un uso intuitivo de la aplicación.
 Además, cabe mencionar que la cabecera puede ocupar un espacio importante (que podría llegar a frustrar al usuario en caso de tener una pantalla pequeña), así que deslizando hacia abajo esta se oculta progresivamente, y por lo tanto se muestra más información en la parte del contenido de datos.
 
-
 Muestra de la interfaz con la cabecera desplazada/oculta:
+
+<kbd><img src="Capturas/Screenshot_2019-04-25-14-51-38-777_com.jaumemiralles.gvasalut_datospersonales3.png" width="360"></kbd>&emsp;&emsp;<kbd><img src="Capturas/Screenshot_2019-04-24-13-53-37-469_com.jaumemiralles.gvasalut_datospersonales3.png" width="360"></kbd>
 
